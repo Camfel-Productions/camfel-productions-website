@@ -13,19 +13,19 @@
    adapter: jdbc
    driver: com.mysql.jdbc.Driver
    url: jdbc:mysql://localhost:3306/camfel_development
-   username: camfel
+   username: camfelwebsite
    password: Arrow15709
 
  test:
    adapter: jdbc
    driver: com.mysql.jdbc.Driver
    url: jdbc:mysql://localhost:3306/camfel_test
-   username: camfel
+   username: camfelwebsite
    password: Arrow15709
 
  production:
    adapter: jdbc
    driver: com.mysql.jdbc.Driver
    url: jdbc:mysql://localhost:3306/camfel_production
-   username: camfel
+   username: camfelwebsite
    password: Arrow15709
